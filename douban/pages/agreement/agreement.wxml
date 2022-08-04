@@ -1,2 +1,3 @@
 <!--pages/agreement/agreement.wxml-->
-<text>pages/agreement/agreement.wxml</text>
+<web-view src="https://520it.com"></web-view>
+  

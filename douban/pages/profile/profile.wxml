@@ -1,0 +1,8 @@
+<view>
+    <view class="login-wrapper">
+        <view class="login">登录</view>
+        <image src="/assets/img/background.png" mode="aspectFill"/>
+    </view>
+    <view class="version">版本1.0.39</view>
+</view>
+  

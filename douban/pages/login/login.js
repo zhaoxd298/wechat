@@ -8,12 +8,7 @@ Page({
   },
   openAgreement: function() {
     wx.navigateTo({
-      url: '',
-      success: (result) => {
-        
-      },
-      fail: () => {},
-      complete: () => {}
+      url: '/pages/agreement/agreement'
     });
       
   }

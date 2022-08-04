@@ -36,8 +36,8 @@
     color: #9d9d9d;
     font-size: 24rpx;
     display: flex;          /*字体显示在一行*/
-    position: absolute;     /*放在界面最下面*/
-    bottom: 50rpx;
+    position: absolute;     /*脱离flex布局，绝对布局*/
+    bottom: 50rpx;          /*放在界面最下面*/
 }
 
 .agreement .open {
